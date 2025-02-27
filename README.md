@@ -1,7 +1,7 @@
 # Builders-Bootcamp-HW3-
 Build an Automation with an LLM: 
-# Description: BGP LLM based Anomaly Detection Pipeline¶
-# Powered by Scikit-Learn and LLaMA2 via Ollama
+# Description: BGP LLM based Anomaly Detection Pipeline
+ Powered by Scikit-Learn and LLaMA2 via Ollama
 
 This software provides an automated pipeline for BGP anomaly detection, integrating:
 
